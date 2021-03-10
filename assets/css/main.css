@@ -27,8 +27,6 @@ ul {
     overflow: hidden;
     width: 100%;
     height: 100%;
-
-    border: 1px solid red;
 }
 
 .left {
@@ -43,8 +41,6 @@ a {
 
 .right {
     float: right;
-
-    border: 1px solid blue;
 }
 .avatar {
     height: 100%;
